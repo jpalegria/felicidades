@@ -76,7 +76,6 @@ while true; do
             echo $l
             sleep 0.01
         done
-
     }
     k=$((k % 2 + 1))
 done
