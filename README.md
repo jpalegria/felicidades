@@ -2,7 +2,7 @@
 
 Mi tarjeta navideña en shell script de BASH!
 
-Para ejecutarlo, abre tu consola de GNU/Linux. Dale permiso de ejecución $chmod 742 felicidades.sh y ejecutalo con ./felicidades.sh
+Para verla, descargala y abrí tu consola GNU/Linux. Dale permiso de ejecución $chmod 742 felicidades.sh y ejecutala con ./felicidades.sh
 
 ¡FELIZ NAVIDAD Y PROSPERO AÑO 2021! :)
 
