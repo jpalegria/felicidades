@@ -1,8 +1,6 @@
-# Felicidades - Árbol de Navidad
+# Felicidades
 
-Árbol de Navidad para en shell script de BASH!
-
-Para ejecutarlo, abre tu consola de GNU/Linux. Dale permiso de ejecución $chmod 742 felicidades.sh y ejecutalo con ./felicidades.sh
+Para ejecutarlo, abre tu consola de GNU/Linux. Dale permiso de ejecución con $chmod 742 felicidades.sh y ejecutalo con $./felicidades.sh
 
 ¡FELIZ NAVIDAD Y PROSPERO AÑO 2021!
 
